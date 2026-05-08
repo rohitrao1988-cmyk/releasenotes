@@ -1,4 +1,4 @@
-# Privacy Policy - DocScan(free)
+# Privacy Policy - ScanXpress
 
 **Effective Date:** April 3, 2026  
 **Last Updated:** April 3, 2026
@@ -7,7 +7,7 @@
 
 ## Overview
 
-DocScan(free) ("we," "us," "our," or "Company") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our mobile application **DocScan(free)** (the "Application").
+ScanXpress ("we," "us," "our," or "Company") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our mobile application **ScanXpress** (the "Application").
 
 Please read this privacy policy carefully. If you do not agree with our policies and practices, please do not use our Application.
 
@@ -172,7 +172,7 @@ Under GDPR, you have the right to:
 
 ### 7.3 Data Controller
 
-**Controller:** DocScan(free) Application Owner
+**Controller:** ScanXpress Application Owner
 **Jurisdiction:** Compliant with GDPR regulations
 
 ---
@@ -216,7 +216,7 @@ The Application uses open-source libraries for:
 
 ### 9.2 No Analytics or Crash Reporting
 
-Unlike many mobile applications, DocumentScan(free):
+Unlike many mobile applications, ScanXpress:
 - Does **not** use Firebase
 - Does **not** use Fabric/Crashlytics
 - Does **not** use GA (Google Analytics)
@@ -336,7 +336,7 @@ The Application follows open-source principles:
 
 ## 15. Acknowledgment
 
-By using DocScan(free), you acknowledge that you have read and understood this Privacy Policy. You agree that your use of the Application is subject to this policy.
+By using ScanXpress, you acknowledge that you have read and understood this Privacy Policy. You agree that your use of the Application is subject to this policy.
 
 **If you do not agree with this policy, please do not use the Application.**
 
@@ -401,5 +401,5 @@ We explicitly **DO NOT** collect:
 
 **End of Privacy Policy**
 
-*This Privacy Policy is provided as a template and demonstration of DocScan(free)'s commitment to user privacy. For legal advice, consult with a qualified attorney.*
+*This Privacy Policy is provided as a template and demonstration of ScanXpress's commitment to user privacy. For legal advice, consult with a qualified attorney.*
 
